@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://willoughbyorchard-cpu.github.io/head-honchos-noir-concept/sitemap.xml
